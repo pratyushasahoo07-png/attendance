@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(23, 23, 73);
+}
+div{
+text-align: center;    
+color:#83b5d1;
+}
+#mhead{
+color:#f08804;    
+}
+table{
+    border-bottom:1px solid gray;
+}
+
+th,td{
+     padding-right: 300px;
+     background-color:white;
+     color: black;
+}
+#button{
+    display: flex;
+    justify-content: space-around;}
+    button{
+    border:2px solid ;
+    padding:5px;
+    background-color:#f08804 ;
+    border-radius: 10px; border-color: aliceblue;
+}
